@@ -24,5 +24,5 @@ The thesis work focuses on recovering artifacts/data from a ride-hailing app and
 ## URL to the work on DiVA publication
 https://www.diva-portal.org/smash/record.jsf?pid=diva2:1862427
 
- ## The tools shown in the image below are among those used in this thesis, with a comprehensive list available in the thesis document.
+ ## The tools shown in the image below are among those used in this thesis.
 <img width="541" alt="Tools" src="https://github.com/GebrecherkosAbrha/MSc-thesis-mobile-app-forensics/assets/73259009/e22ddab3-a5c8-47e6-9f55-bfc10e3e75e3">
